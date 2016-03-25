@@ -13,9 +13,7 @@
   "keywords": [
     "eslint",
     "eslintconfig",
-    "javascript",
-    "style",
-    "styleguide"
+    "javascript"
   ],
   "author": "Paul Zerkel",
   "license": "MIT",
