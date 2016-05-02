@@ -50,6 +50,8 @@ module.exports = {
     'max-params': 0,
     // http://eslint.org/docs/rules/max-statements
     'max-statements': 0,
+    // http://eslint.org/docs/rules/max-statements-per-line
+    'max-statements-per-line': 0,
     // http://eslint.org/docs/rules/new-cap
     'new-cap': 0,
     // http://eslint.org/docs/rules/new-parens

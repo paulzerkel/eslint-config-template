@@ -48,6 +48,8 @@ module.exports = {
     'no-sparse-arrays': 0,
     // http://eslint.org/docs/rules/no-unexpected-multiline
     'no-unexpected-multiline': 0,
+    // http://eslint.org/docs/rules/no-unsafe-finally
+    'no-unsafe-finally': 0,
     // http://eslint.org/docs/rules/no-unreachable
     'no-unreachable': 0,
     // http://eslint.org/docs/rules/use-isnan

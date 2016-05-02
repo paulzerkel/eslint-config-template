@@ -112,6 +112,8 @@ module.exports = {
     'no-useless-call': 0,
     // http://eslint.org/docs/rules/no-useless-concat
     'no-useless-concat': 0,
+    // http://eslint.org/docs/rules/no-useless-escape
+    'no-useless-escape': 0,
     // http://eslint.org/docs/rules/no-void
     'no-void': 0,
     // http://eslint.org/docs/rules/no-warning-comments

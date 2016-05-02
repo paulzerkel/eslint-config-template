@@ -24,12 +24,16 @@ module.exports = {
     'no-const-assign': 0,
     // http://eslint.org/docs/rules/no-dupe-class-members
     'no-dupe-class-members': 0,
+    // http://eslint.org/docs/rules/no-duplicate-imports
+    'no-duplicate-imports': 0,
     // http://eslint.org/docs/rules/no-new-symbol
     'no-new-symbol': 0,
     // http://eslint.org/docs/rules/no-restricted-imports
     'no-restricted-imports': 0,
     // http://eslint.org/docs/rules/no-this-before-super
     'no-this-before-super': 0,
+    // http://eslint.org/docs/rules/no-useless-computed-key
+    'no-useless-computed-key': 0,
     // http://eslint.org/docs/rules/no-useless-constructor
     'no-useless-constructor': 0,
     // http://eslint.org/docs/rules/no-var
